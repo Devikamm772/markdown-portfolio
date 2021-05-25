@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hi!! I am Devika*
+_Student of MBCET_
+
+**My Skills are: Leadership,critical thinking,perservarance and motivation**
+
+__Other skill are Team building, Decision makking, organising and collaboration skills__
+
+_I am good in **C++** programming_
+
+_Thank You!!_
