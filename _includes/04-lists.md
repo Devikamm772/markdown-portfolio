@@ -1,0 +1,4 @@
+- mobile phone
+- headset
+- my favourite playlist
+- Books
